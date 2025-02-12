@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I am currently working on Python and Web development.<br><br>💬 Let's chat about exciting collaboration opportunities on innovative projects! Whether it's coding, designing, or brainstorming, count me in.<br><br>📚 Also, a fan of continuous learning! Always on the lookout for new technologies and best practices.<br><br>😄 Pronouns: He/His
+# 💫 About Me:  
+🔭 I am currently working on **Machine Learning, AI, and Web Development**, with a focus on **deep learning, computer vision, and data analytics**.  
+
+💬 Open to **collaborations on AI-driven solutions**. Let's connect to build innovative projects!  
+
+📚 Passionate about **continuous learning**, I stay updated with emerging technologies, best practices, and advancements in **ML, Generative AI, and Power BI**.  
 
 
 ## 🌐 Socials:

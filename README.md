@@ -24,20 +24,21 @@
 
 📌 Currently seeking opportunities as a Software Developer, Python Developer, Data Analyst, or AI/ML Engineer
 
-## ⚙️ Tools
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,postman,anaconda,bash">
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,postman,anaconda,bash,jupyter,pandas,numpy,linux,netlify,vercel" >
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" height="48"/>
-<img src="https://skillicons.dev/icons?i=linux" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48"/>
 
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/>
 
-<img src="https://railway.app/brand/logo-light.png" width="48" height="48">
+<img src="https://railway.app/brand/logo-light.png" width="48" height="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" height="48"/>
+
+<img src="https://img.icons8.com/color/96/api-settings.png" width="48" height="48" alt="REST API">
 
 </p>
 

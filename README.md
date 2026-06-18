@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,postman,anaconda,bash,jupyter,pandas,numpy,linux,netlify,vercel" >
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,postman,anaconda,bash,linux,netlify,vercel" >
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48"/>
 

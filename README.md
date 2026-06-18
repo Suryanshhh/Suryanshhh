@@ -24,56 +24,49 @@
 
 📌 Currently seeking opportunities as a Software Developer, Python Developer, Data Analyst, or AI/ML Engineer
 
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js,react,tensorflow,firebase,git,github,vscode,postman" />
-</p>
-
-## ⚙️ Languages & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css,js,react,tensorflow,firebase,git,github,vscode,postman" />
-</p>
-
----
-
-## 🤖 Machine Learning & Data Science
-
+## ⚙️ Tools
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,postman,anaconda,bash">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=linux" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="48" height="48"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" />
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" />
+<img src="https://railway.app/brand/logo-light.png" width="48" height="48">
 
 </p>
 
----
+## 💻 Programming Languages
 
-## 📊 Analytics & Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
+## 🤖 Machine Learning & AI Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" />
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" />
 
-<img src="https://img.icons8.com/color/96/power-bi.png" width="55"/>
+## 📊 Data Science & Analytics Tools
 
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="55"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-</p>
-
----
 
 ## 💼 Featured Projects
 
